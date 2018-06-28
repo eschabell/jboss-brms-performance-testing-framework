@@ -1,3 +1,6 @@
+Update: June 2018 moved to [Gitlab](https://gitlab.com/eschabell/jboss-brms-performance-testing-framework).
+
+
 JBoss BRMS (BPM) Performance Testing Framework Project
 ======================================================
 
